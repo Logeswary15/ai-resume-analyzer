@@ -1,0 +1,10 @@
+Sample Resume Analysis
+
+Input:
+Candidate with basic Python skills and no projects.
+
+Output:
+- Strength: Basic programming knowledge
+- Weakness: No hands-on project experience
+- Suggested Skills: SQL, Data Analysis, GitHub
+- Recommendation: Build 2-3 beginner projects
